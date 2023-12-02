@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noobb111
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on new wprojects
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me through this account
 
 <!---
